@@ -1,0 +1,11 @@
+# Uncomment the next line to define a global platform for your project
+#取消三方库中带有的警告
+inhibit_all_warnings!
+
+platform :ios, '8.0'
+
+target 'Example' do
+
+pod 'KSBorderRadius', :git => 'https://git.coding.net/FirstDKS521/KSBorderRadius.git'
+
+end

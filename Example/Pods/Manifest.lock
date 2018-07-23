@@ -1,0 +1,21 @@
+PODS:
+  - KSBorderRadius (0.0.1)
+
+DEPENDENCIES:
+  - KSBorderRadius (from `https://git.coding.net/FirstDKS521/KSBorderRadius.git`)
+
+EXTERNAL SOURCES:
+  KSBorderRadius:
+    :git: https://git.coding.net/FirstDKS521/KSBorderRadius.git
+
+CHECKOUT OPTIONS:
+  KSBorderRadius:
+    :commit: ad16d7c418d9afaf7c9378ef816995772f2b8da7
+    :git: https://git.coding.net/FirstDKS521/KSBorderRadius.git
+
+SPEC CHECKSUMS:
+  KSBorderRadius: d31e665b35b089c20ec1be692d389dc4d6773a17
+
+PODFILE CHECKSUM: 21c36f96da6c55d8bdb7b9fe58df50d7e1600eda
+
+COCOAPODS: 1.5.3
